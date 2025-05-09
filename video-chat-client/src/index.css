@@ -1,0 +1,7 @@
+
+
+@import "tailwindcss";
+@plugin "flyonui";
+
+/* If you gitignored node_modules use below method */
+@source "./node_modules/flyonui/dist/index.js"; /* Require only if you want to use FlyonUI JS component */
